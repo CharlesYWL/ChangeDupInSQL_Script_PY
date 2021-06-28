@@ -1,0 +1,1674 @@
+,id,title,create_by,bank_request,bank_request_changed
+0,2820,Chime Time,10384,0,0
+1,3563,Chime Time,10384,0,0
+2,4159,Chime Time,10384,1,0
+3,2821,A Simple Reversal,10384,0,0
+4,3564,A Simple Reversal,10384,0,0
+5,4160,A Simple Reversal,10384,1,0
+6,2822,Penny Space,10384,0,0
+7,3565,Penny Space,10384,0,0
+8,4161,Penny Space,10384,1,0
+9,2823,Perfect Passengers,10384,0,0
+10,3566,Perfect Passengers,10384,0,0
+11,4163,Perfect Passengers,10384,1,0
+12,2824,The Chocolate Allergy Revelation,10384,0,0
+13,3567,The Chocolate Allergy Revelation,10384,0,0
+14,4164,The Chocolate Allergy Revelation,10384,1,0
+15,2825,Team Tag,10384,0,0
+16,3568,Team Tag,10384,0,0
+17,4167,Team Tag,10384,1,0
+18,2826,The Complex Apartment Complex,10384,0,0
+19,3569,The Complex Apartment Complex,10384,0,0
+20,4168,The Complex Apartment Complex,10384,1,0
+21,2827,Expressions of One Hundred,10384,0,0
+22,3570,Expressions of One Hundred,10384,0,0
+23,4170,Expressions of One Hundred,10384,1,0
+24,2828,Trick-or-Treat Route,10384,0,0
+25,3571,Trick-or-Treat Route,10384,0,0
+26,4171,Trick-or-Treat Route,10384,1,0
+27,2829,Feathers and Fur,10384,0,0
+28,3572,Feathers and Fur,10384,0,0
+29,4172,Feathers and Fur,10384,1,0
+30,2830,Frugal Freeda,10384,0,0
+31,3573,Frugal Freeda,10384,0,0
+32,4174,Frugal Freeda,10384,1,0
+33,2831,Wordy Problems,10384,0,0
+34,3574,Wordy Problems,10384,0,0
+35,4175,Wordy Problems,10384,1,0
+36,2832,Happy Thanksgiving,10384,0,0
+37,3575,Happy Thanksgiving,10384,0,0
+38,4176,Happy Thanksgiving,10384,1,0
+39,2833,What Was That Score?,10384,0,0
+40,3576,What Was That Score?,10384,0,0
+41,4178,What Was That Score?,10384,1,0
+42,2834,A Holiday Gift for Grandmother Brown,10384,0,0
+43,3577,A Holiday Gift for Grandmother Brown,10384,0,0
+44,4179,A Holiday Gift for Grandmother Brown,10384,1,0
+45,2835,Growing Pains,10384,0,0
+46,3578,Growing Pains,10384,0,0
+47,4180,Growing Pains,10384,1,0
+48,2836,Movie Line Madness,10384,0,0
+49,3579,Movie Line Madness,10384,0,0
+50,4181,Movie Line Madness,10384,1,0
+51,2837,Mystery Numbers,10384,0,0
+52,3580,Mystery Numbers,10384,0,0
+53,4183,Mystery Numbers,10384,1,0
+54,2838,Splish Splash,10384,0,0
+55,3581,Splish Splash,10384,0,0
+56,4185,Splish Splash,10384,1,0
+57,2839,Penguin Fun,10384,0,0
+58,3582,Penguin Fun,10384,0,0
+59,4186,Penguin Fun,10384,1,0
+60,2840,Cubic Changes,10384,0,0
+61,3583,Cubic Changes,10384,0,0
+62,4188,Cubic Changes,10384,1,0
+63,2841,Car Rental Quandary,10384,0,0
+64,3584,Car Rental Quandary,10384,0,0
+65,4189,Car Rental Quandary,10384,1,0
+66,2842,Magic Square Jumble,10384,0,0
+67,3585,Magic Square Jumble,10384,0,0
+68,4191,Magic Square Jumble,10384,1,0
+69,2843,High School Reunion,10384,0,0
+70,3586,High School Reunion,10384,0,0
+71,4193,High School Reunion,10384,1,0
+72,2844,The Math Teacher's Ties,10384,0,0
+73,3587,The Math Teacher's Ties,10384,0,0
+74,4195,The Math Teacher's Ties,10384,1,0
+75,2845,Power Outage,10384,0,0
+76,3588,Power Outage,10384,0,0
+77,4196,Power Outage,10384,1,0
+78,2846,Spring Garden Planning,10384,0,0
+79,3589,Spring Garden Planning,10384,0,0
+80,4197,Spring Garden Planning,10384,1,0
+81,2847,Frugal Flooring,10384,0,0
+82,3590,Frugal Flooring,10384,0,0
+83,4198,Frugal Flooring,10384,1,0
+84,2848,Luscious Lemonade,10384,0,0
+85,3591,Luscious Lemonade,10384,0,0
+86,4201,Luscious Lemonade,10384,1,0
+87,2849,Tatianna and the Troll,10384,0,0
+88,3592,Tatianna and the Troll,10384,0,0
+89,4204,Tatianna and the Troll,10384,1,0
+90,2850,Cat Walk,10384,0,0
+91,3593,Cat Walk,10384,0,0
+92,4206,Cat Walk,10384,1,0
+93,2851,Good Fences,10384,0,0
+94,3594,Good Fences,10384,0,0
+95,4208,Good Fences,10384,1,0
+96,2852,Duke is Missing,10384,0,0
+97,3595,Duke is Missing,10384,0,0
+98,4209,Duke is Missing,10384,1,0
+99,2853,Georg Tricks the Troll,10384,0,0
+100,3596,Georg Tricks the Troll,10384,0,0
+101,4210,Georg Tricks the Troll,10384,1,0
+102,2854,Golf Anyone?,10384,0,0
+103,3597,Golf Anyone?,10384,0,0
+104,4213,Golf Anyone?,10384,1,0
+105,2855,Jellybean Fractions,10384,0,0
+106,3598,Jellybean Fractions,10384,0,0
+107,4214,Jellybean Fractions,10384,1,0
+108,2856,Farmer Fever's Hay,10384,0,0
+109,3599,Farmer Fever's Hay,10384,0,0
+110,4216,Farmer Fever's Hay,10384,1,0
+111,2857,He Ate It All!,10384,0,0
+112,3600,He Ate It All!,10384,0,0
+113,4217,He Ate It All!,10384,1,0
+114,2858,Lawn-Mowing Chore,10384,0,0
+115,3601,Lawn-Mowing Chore,10384,0,0
+116,4218,Lawn-Mowing Chore,10384,1,0
+117,2859,Rabbit's Run,10384,0,0
+118,3602,Rabbit's Run,10384,0,0
+119,4220,Rabbit's Run,10384,1,0
+120,2860,Water Fun?,10384,0,0
+121,3603,Water Fun?,10384,0,0
+122,4221,Water Fun?,10384,1,0
+123,2861,Super Deal Salsa,10384,0,0
+124,3604,Super Deal Salsa,10384,0,0
+125,4222,Super Deal Salsa,10384,1,0
+126,2862,Choosy Chooser's Choices,10384,0,0
+127,3605,Choosy Chooser's Choices,10384,0,0
+128,4223,Choosy Chooser's Choices,10384,1,0
+129,2863,Neighborhood Watch,10384,0,0
+130,3606,Neighborhood Watch,10384,0,0
+131,4225,Neighborhood Watch,10384,1,0
+132,2864,Inching Along Down the Football Field,10384,0,0
+133,3607,Inching Along Down the Football Field,10384,0,0
+134,4226,Inching Along Down the Football Field,10384,1,0
+135,2865,Lost in Space,10384,0,0
+136,3608,Lost in Space,10384,0,0
+137,4227,Lost in Space,10384,1,0
+138,2866,I Get a Kick Out of Soccer!,10384,0,0
+139,3609,I Get a Kick Out of Soccer!,10384,0,0
+140,4228,I Get a Kick Out of Soccer!,10384,1,0
+141,2867,Hot Dog Day!,10384,0,0
+142,3610,Hot Dog Day!,10384,0,0
+143,4230,Hot Dog Day!,10384,1,0
+144,2868,Charlene Goes Shopping,10384,0,0
+145,3611,Charlene Goes Shopping,10384,0,0
+146,4231,Charlene Goes Shopping,10384,1,0
+147,2869,Five Digits of Fun,10384,0,0
+148,3612,Five Digits of Fun,10384,0,0
+149,4233,Five Digits of Fun,10384,1,0
+150,2870,Sacagawea Cheerios,10384,0,0
+151,3613,Sacagawea Cheerios,10384,0,0
+152,4234,Sacagawea Cheerios,10384,1,0
+153,2871,Square Dancing,10384,0,0
+154,3614,Square Dancing,10384,0,0
+155,4235,Square Dancing,10384,1,0
+156,2872,Office Tile Choice,10384,0,0
+157,3615,Office Tile Choice,10384,0,0
+158,4237,Office Tile Choice,10384,1,0
+159,2873,Birds in Trees,10384,0,0
+160,3616,Birds in Trees,10384,0,0
+161,4238,Birds in Trees,10384,1,0
+162,2874,Mean Jellybeans,10384,0,0
+163,3617,Mean Jellybeans,10384,0,0
+164,4240,Mean Jellybeans,10384,1,0
+165,2875,McPrincipal's Night at McDee's,10384,0,0
+166,3618,McPrincipal's Night at McDee's,10384,0,0
+167,4241,McPrincipal's Night at McDee's,10384,1,0
+168,2876,Nets of a Cube,10384,0,0
+169,3619,Nets of a Cube,10384,0,0
+170,4242,Nets of a Cube,10384,1,0
+171,2877,The Great Flood,10384,0,0
+172,3620,The Great Flood,10384,0,0
+173,4244,The Great Flood,10384,1,0
+174,2878,Payment in Kind,10384,0,0
+175,3621,Payment in Kind,10384,0,0
+176,4245,Payment in Kind,10384,1,0
+177,2879,The Nutty Squirrel,10384,0,0
+178,3622,The Nutty Squirrel,10384,0,0
+179,4246,The Nutty Squirrel,10384,1,0
+180,2880,Birthday Beach Bash,10384,0,0
+181,3623,Birthday Beach Bash,10384,0,0
+182,4247,Birthday Beach Bash,10384,1,0
+183,2881,Ms. Newton's Secret,10384,0,0
+184,3624,Ms. Newton's Secret,10384,0,0
+185,4248,Ms. Newton's Secret,10384,1,0
+186,2882,Lucky Lettuce Land,10384,0,0
+187,3625,Lucky Lettuce Land,10384,0,0
+188,4249,Lucky Lettuce Land,10384,1,0
+189,2883,Flying Time Zones,10384,0,0
+190,3626,Flying Time Zones,10384,0,0
+191,4256,Flying Time Zones,10384,1,0
+192,2884,Summer At Sweet Tooth,10384,0,0
+193,3627,Summer At Sweet Tooth,10384,0,0
+194,4258,Summer At Sweet Tooth,10384,1,0
+195,2885,Seasonal Probability,10384,0,0
+196,3628,Seasonal Probability,10384,0,0
+197,4261,Seasonal Probability,10384,1,0
+198,2886,Aidan's Millimeter Measurements,10384,0,0
+199,3629,Aidan's Millimeter Measurements,10384,0,0
+200,4262,Aidan's Millimeter Measurements,10384,1,0
+201,2887,How Safe Is Your Bike?,10384,0,0
+202,3630,How Safe Is Your Bike?,10384,0,0
+203,4264,How Safe Is Your Bike?,10384,1,0
+204,2888,Baseball Trivia,10384,0,0
+205,3631,Baseball Trivia,10384,0,0
+206,4265,Baseball Trivia,10384,1,0
+207,2889,Cool Cubes,10384,0,0
+208,3632,Cool Cubes,10384,0,0
+209,4266,Cool Cubes,10384,1,0
+210,2890,Price Tag Repair,10384,0,0
+211,3633,Price Tag Repair,10384,0,0
+212,4268,Price Tag Repair,10384,1,0
+213,2891,Anderson's Pumpkin Patch,10384,0,0
+214,3634,Anderson's Pumpkin Patch,10384,0,0
+215,4269,Anderson's Pumpkin Patch,10384,1,0
+216,2892,Math Club Lollipop Profits,10384,0,0
+217,3635,Math Club Lollipop Profits,10384,0,0
+218,4270,Math Club Lollipop Profits,10384,1,0
+219,2893,Alien Operations,10384,0,0
+220,3636,Alien Operations,10384,0,0
+221,4271,Alien Operations,10384,1,0
+222,2894,Borrowed Books,10384,0,0
+223,3637,Borrowed Books,10384,0,0
+224,4272,Borrowed Books,10384,1,0
+225,2895,The Twelve Percents of Christmas,10384,0,0
+226,3638,The Twelve Percents of Christmas,10384,0,0
+227,4274,The Twelve Percents of Christmas,10384,1,0
+228,2896,Membership Boom!,10384,0,0
+229,3639,Membership Boom!,10384,0,0
+230,4275,Membership Boom!,10384,1,0
+231,2897,Special Stars,10384,0,0
+232,3640,Special Stars,10384,0,0
+233,4276,Special Stars,10384,1,0
+234,2898,Puzzling Puzzle Pieces,10384,0,0
+235,3641,Puzzling Puzzle Pieces,10384,0,0
+236,4277,Puzzling Puzzle Pieces,10384,1,0
+237,2899,California Dreaming,10384,0,0
+238,3642,California Dreaming,10384,0,0
+239,4278,California Dreaming,10384,1,0
+240,2900,Mowing Madness,10384,0,0
+241,3643,Mowing Madness,10384,0,0
+242,4279,Mowing Madness,10384,1,0
+243,2901,Volunteering at the Food Bank,10384,0,0
+244,3644,Volunteering at the Food Bank,10384,0,0
+245,4280,Volunteering at the Food Bank,10384,1,0
+246,2902,Meters of Money,10384,0,0
+247,3645,Meters of Money,10384,0,0
+248,4281,Meters of Money,10384,1,0
+249,2903,Pushing Pennies,10384,0,0
+250,3646,Pushing Pennies,10384,0,0
+251,4283,Pushing Pennies,10384,1,0
+252,2904,A Million in Time,10384,0,0
+253,3647,A Million in Time,10384,0,0
+254,4284,A Million in Time,10384,1,0
+255,2905,Peanut Butter and Jelly,10384,0,0
+256,3648,Peanut Butter and Jelly,10384,0,0
+257,4286,Peanut Butter and Jelly,10384,1,0
+258,2906,Bunches of Basil,10384,0,0
+259,3649,Bunches of Basil,10384,0,0
+260,4288,Bunches of Basil,10384,1,0
+261,2907,Back-to-school Supplies,10384,0,0
+262,3650,Back-to-school Supplies,10384,0,0
+263,4290,Back-to-school Supplies,10384,1,0
+264,2908,Join Us for a Quarter-pound Burger,10384,0,0
+265,3651,Join Us for a Quarter-pound Burger,10384,0,0
+266,4292,Join Us for a Quarter-pound Burger,10384,1,0
+267,2909,Video Trading,10384,0,0
+268,3652,Video Trading,10384,0,0
+269,4294,Video Trading,10384,1,0
+270,2910,The Magic of Number 6174,10384,0,0
+271,3653,The Magic of Number 6174,10384,0,0
+272,4295,The Magic of Number 6174,10384,1,0
+273,2911,What a Move!,10384,0,0
+274,3654,What a Move!,10384,0,0
+275,4297,What a Move!,10384,1,0
+276,2912,The Big Balloon Blowup,10384,0,0
+277,3655,The Big Balloon Blowup,10384,0,0
+278,4299,The Big Balloon Blowup,10384,1,0
+279,2913,How Much Was That Ticket?,10384,0,0
+280,3656,How Much Was That Ticket?,10384,0,0
+281,4301,How Much Was That Ticket?,10384,1,0
+282,2914,Lunch Bunch Budgets,10384,0,0
+283,3657,Lunch Bunch Budgets,10384,0,0
+284,4303,Lunch Bunch Budgets,10384,1,0
+285,2915,Seesaw,10384,0,0
+286,3658,Seesaw,10384,0,0
+287,4304,Seesaw,10384,1,0
+288,2916,Video Viewing,10384,0,0
+289,3659,Video Viewing,10384,0,0
+290,4306,Video Viewing,10384,1,0
+291,2917,Gearing Up,10384,0,0
+292,3660,Gearing Up,10384,0,0
+293,4307,Gearing Up,10384,1,0
+294,2918,Water Park Adventure,10384,0,0
+295,3661,Water Park Adventure,10384,0,0
+296,4308,Water Park Adventure,10384,1,0
+297,2919,Club Competition,10384,0,0
+298,3662,Club Competition,10384,0,0
+299,4309,Club Competition,10384,1,0
+300,2920,March Madness!,10384,0,0
+301,3663,March Madness!,10384,0,0
+302,4310,March Madness!,10384,1,0
+303,2921,Buying Cola,10384,0,0
+304,3664,Buying Cola,10384,0,0
+305,4312,Buying Cola,10384,1,0
+306,2922,At the Movies,10384,0,0
+307,3665,At the Movies,10384,0,0
+308,4313,At the Movies,10384,1,0
+309,2923,Jumping Rope,10384,0,0
+310,3666,Jumping Rope,10384,0,0
+311,4316,Jumping Rope,10384,1,0
+312,2924,Boxes of Stationery,10384,0,0
+313,3667,Boxes of Stationery,10384,0,0
+314,4319,Boxes of Stationery,10384,1,0
+315,2925,School Spirit,10384,0,0
+316,3668,School Spirit,10384,0,0
+317,4323,School Spirit,10384,1,0
+318,2926,Operating Diagonally,10384,0,0
+319,3669,Operating Diagonally,10384,0,0
+320,4324,Operating Diagonally,10384,1,0
+321,2927,Elevator Weigh-in,10384,0,0
+322,3670,Elevator Weigh-in,10384,0,0
+323,4325,Elevator Weigh-in,10384,1,0
+324,2928,Kate's Combination,10384,0,0
+325,3671,Kate's Combination,10384,0,0
+326,4326,Kate's Combination,10384,1,0
+327,2929,The Place Value Game,10384,0,0
+328,3672,The Place Value Game,10384,0,0
+329,4327,The Place Value Game,10384,1,0
+330,2930,Tiling Tables,10384,0,0
+331,3673,Tiling Tables,10384,0,0
+332,4328,Tiling Tables,10384,1,0
+333,2931,Choose Your Challenge,10384,0,0
+334,3674,Choose Your Challenge,10384,0,0
+335,4329,Choose Your Challenge,10384,1,0
+336,2932,Catching Up!,10384,0,0
+337,3675,Catching Up!,10384,0,0
+338,4332,Catching Up!,10384,1,0
+339,2933,Anh's Code,10384,0,0
+340,3676,Anh's Code,10384,0,0
+341,4333,Anh's Code,10384,1,0
+342,2934,Anthony's Famous Butter Rolls,10384,0,0
+343,3677,Anthony's Famous Butter Rolls,10384,0,0
+344,4334,Anthony's Famous Butter Rolls,10384,1,0
+345,2935,The Oracle's Oration,10384,0,0
+346,3678,The Oracle's Oration,10384,0,0
+347,4335,The Oracle's Oration,10384,1,0
+348,2936,Monmouth Mountain Bikes,10384,0,0
+349,3679,Monmouth Mountain Bikes,10384,0,0
+350,4336,Monmouth Mountain Bikes,10384,1,0
+351,2937,Thanksgiving Travel,10384,0,0
+352,3680,Thanksgiving Travel,10384,0,0
+353,4337,Thanksgiving Travel,10384,1,0
+354,2938,Sharing Birthday Cake,10384,0,0
+355,3681,Sharing Birthday Cake,10384,0,0
+356,4339,Sharing Birthday Cake,10384,1,0
+357,2939,Teresa's Tiles,10384,0,0
+358,3682,Teresa's Tiles,10384,0,0
+359,4340,Teresa's Tiles,10384,1,0
+360,2940,Subway Subtotals,10384,0,0
+361,3683,Subway Subtotals,10384,0,0
+362,4341,Subway Subtotals,10384,1,0
+363,2941,"Cupcakes, Cupcakes!",10384,0,0
+364,3684,"Cupcakes, Cupcakes!",10384,0,0
+365,4343,"Cupcakes, Cupcakes!",10384,1,0
+366,2942,Horton's Clover Hunt,10384,0,0
+367,3685,Horton's Clover Hunt,10384,0,0
+368,4344,Horton's Clover Hunt,10384,1,0
+369,2943,Building Bouquets,10384,0,0
+370,3686,Building Bouquets,10384,0,0
+371,4345,Building Bouquets,10384,1,0
+372,2944,Lucky Lollipops,10384,0,0
+373,3687,Lucky Lollipops,10384,0,0
+374,4347,Lucky Lollipops,10384,1,0
+375,2945,How Many Actors?,10384,0,0
+376,3688,How Many Actors?,10384,0,0
+377,4348,How Many Actors?,10384,1,0
+378,2946,Filling the Freezer,10384,0,0
+379,3689,Filling the Freezer,10384,0,0
+380,4350,Filling the Freezer,10384,1,0
+381,2947,3-D Vision,10384,0,0
+382,3690,3-D Vision,10384,0,0
+383,4351,3-D Vision,10384,1,0
+384,2948,Count the Discount,10384,0,0
+385,3691,Count the Discount,10384,0,0
+386,4352,Count the Discount,10384,1,0
+387,2949,Timber!,10384,0,0
+388,3692,Timber!,10384,0,0
+389,4353,Timber!,10384,1,0
+390,2950,Grampa Joe's Great Grandpets,10384,0,0
+391,3693,Grampa Joe's Great Grandpets,10384,0,0
+392,4354,Grampa Joe's Great Grandpets,10384,1,0
+393,2951,Four Playful Mathematicians,10384,0,0
+394,3694,Four Playful Mathematicians,10384,0,0
+395,4355,Four Playful Mathematicians,10384,1,0
+396,2952,Lemonade Fun,10384,0,0
+397,3695,Lemonade Fun,10384,0,0
+398,4356,Lemonade Fun,10384,1,0
+399,2953,Dad's Cookies,10384,0,0
+400,3696,Dad's Cookies,10384,0,0
+401,4358,Dad's Cookies,10384,1,0
+402,2954,Football Fanfare,10384,0,0
+403,3697,Football Fanfare,10384,0,0
+404,4361,Football Fanfare,10384,1,0
+405,2955,Taxicab Distances,10384,0,0
+406,3698,Taxicab Distances,10384,0,0
+407,4363,Taxicab Distances,10384,1,0
+408,2956,I Like to Palindrive!,10384,0,0
+409,3699,I Like to Palindrive!,10384,0,0
+410,4364,I Like to Palindrive!,10384,1,0
+411,2957,Giving with Grapefruit,10384,0,0
+412,3700,Giving with Grapefruit,10384,0,0
+413,4366,Giving with Grapefruit,10384,1,0
+414,2958,Zoo Trip,10384,0,0
+415,3701,Zoo Trip,10384,0,0
+416,4368,Zoo Trip,10384,1,0
+417,2959,Campers' Cider,10384,0,0
+418,3702,Campers' Cider,10384,0,0
+419,4371,Campers' Cider,10384,1,0
+420,2960,Building the Fence,10384,0,0
+421,3703,Building the Fence,10384,0,0
+422,4373,Building the Fence,10384,1,0
+423,2961,Campfire Camaraderie,10384,0,0
+424,3704,Campfire Camaraderie,10384,0,0
+425,4376,Campfire Camaraderie,10384,1,0
+426,2962,Birthday Trip,10384,0,0
+427,3705,Birthday Trip,10384,0,0
+428,4378,Birthday Trip,10384,1,0
+429,2963,Taking Tolls,10384,0,0
+430,3706,Taking Tolls,10384,0,0
+431,4380,Taking Tolls,10384,1,0
+432,2964,Sizing Up Sequoias,10384,0,0
+433,3707,Sizing Up Sequoias,10384,0,0
+434,4381,Sizing Up Sequoias,10384,1,0
+435,2965,Basketball Bargain,10384,0,0
+436,3708,Basketball Bargain,10384,0,0
+437,4383,Basketball Bargain,10384,1,0
+438,2966,I'm a Groundhog?,10384,0,0
+439,3709,I'm a Groundhog?,10384,0,0
+440,4384,I'm a Groundhog?,10384,1,0
+441,2967,Money Matters,10384,0,0
+442,3710,Money Matters,10384,1,0
+443,2968,Elizabeth's Cookies,10384,0,0
+444,3711,Elizabeth's Cookies,10384,0,0
+445,4385,Elizabeth's Cookies,10384,1,0
+446,2969,Try It Out,10384,0,0
+447,3712,Try It Out,10384,1,0
+448,2970,Drama Dollars,10384,0,0
+449,3713,Drama Dollars,10384,0,0
+450,4386,Drama Dollars,10384,1,0
+451,2971,Balloon Fun,10384,0,0
+452,3714,Balloon Fun,10384,1,0
+453,2972,Can You Drink That Swimming Pool?,10384,0,0
+454,3715,Can You Drink That Swimming Pool?,10384,0,0
+455,4387,Can You Drink That Swimming Pool?,10384,1,0
+456,2973,Time Is Power,10384,0,0
+457,3716,Time Is Power,10384,0,0
+458,4388,Time Is Power,10384,1,0
+459,2974,Ice Cream Party,10384,0,0
+460,3717,Ice Cream Party,10384,1,0
+461,2975,A Larger Garden,10384,0,0
+462,3718,A Larger Garden,10384,0,0
+463,4390,A Larger Garden,10384,1,0
+464,2976,Women's Walkway,10384,0,0
+465,3719,Women's Walkway,10384,0,0
+466,4391,Women's Walkway,10384,1,0
+467,2977,Magic Rabbits,10384,0,0
+468,3720,Magic Rabbits,10384,1,0
+469,2978,More Recess,10384,0,0
+470,3721,More Recess,10384,0,0
+471,4392,More Recess,10384,1,0
+472,2979,Cupcake Combinations,10384,0,0
+473,3722,Cupcake Combinations,10384,1,0
+474,2980,So Many Salmon,10384,0,0
+475,3723,So Many Salmon,10384,0,0
+476,4394,So Many Salmon,10384,1,0
+477,2981,Penny-Pinching Pretzel Company,10384,0,0
+478,3724,Penny-Pinching Pretzel Company,10384,0,0
+479,4396,Penny-Pinching Pretzel Company,10384,1,0
+480,2982,Letter to Grandma,10384,0,0
+481,3725,Letter to Grandma,10384,1,0
+482,2983,Let's Play Ball!,10384,0,0
+483,3726,Let's Play Ball!,10384,1,0
+484,2984,Helping Hands,10384,0,0
+485,3727,Helping Hands,10384,0,0
+486,4400,Helping Hands,10384,1,0
+487,2985,Crack the Code,10384,0,0
+488,3728,Crack the Code,10384,0,0
+489,4402,Crack the Code,10384,1,0
+490,2986,Home On Time,10384,0,0
+491,3729,Home On Time,10384,1,0
+492,2987,Change Woes,10384,0,0
+493,3730,Change Woes,10384,0,0
+494,4403,Change Woes,10384,1,0
+495,2988,Lee's Lawn Chair,10384,0,0
+496,3731,Lee's Lawn Chair,10384,0,0
+497,4405,Lee's Lawn Chair,10384,1,0
+498,2989,Winter Is Coming!,10384,0,0
+499,3732,Winter Is Coming!,10384,1,0
+500,2990,Pig Pens,10384,0,0
+501,3733,Pig Pens,10384,0,0
+502,4407,Pig Pens,10384,1,0
+503,2991,A Quilt Made of Squares,10384,0,0
+504,3734,A Quilt Made of Squares,10384,0,0
+505,4408,A Quilt Made of Squares,10384,1,0
+506,2992,Falling Leaves,10384,0,0
+507,3735,Falling Leaves,10384,0,0
+508,4409,Falling Leaves,10384,1,0
+509,2993,Batting Order,10384,0,0
+510,3736,Batting Order,10384,0,0
+511,4410,Batting Order,10384,1,0
+512,2994,Pocket Change,10384,0,0
+513,3737,Pocket Change,10384,0,0
+514,4413,Pocket Change,10384,1,0
+515,2995,Election Day in Prealgpoweria,10384,0,0
+516,3738,Election Day in Prealgpoweria,10384,0,0
+517,4414,Election Day in Prealgpoweria,10384,1,0
+518,2996,A Trip to the Ballpark,10384,0,0
+519,3739,A Trip to the Ballpark,10384,1,0
+520,2997,Filling Beauty's Seats,10384,0,0
+521,3740,Filling Beauty's Seats,10384,0,0
+522,4415,Filling Beauty's Seats,10384,1,0
+523,2998,Ice Cream Sandwiches,10384,0,0
+524,3741,Ice Cream Sandwiches,10384,1,0
+525,2999,How Old is Santa Claus?,10384,0,0
+526,3742,How Old is Santa Claus?,10384,0,0
+527,4418,How Old is Santa Claus?,10384,1,0
+528,3000,Baby Birds,10384,0,0
+529,3743,Baby Birds,10384,1,0
+530,3001,A Snowy Driveway,10384,0,0
+531,3744,A Snowy Driveway,10384,0,0
+532,4420,A Snowy Driveway,10384,1,0
+533,3002,Warming Up!,10384,0,0
+534,3745,Warming Up!,10384,1,0
+535,3003,After School Snacks,10384,0,0
+536,3746,After School Snacks,10384,0,0
+537,4424,After School Snacks,10384,1,0
+538,3004,Valentine's Day Candy,10384,0,0
+539,3747,Valentine's Day Candy,10384,0,0
+540,4425,Valentine's Day Candy,10384,1,0
+541,3005,Flower Fun,10384,0,0
+542,3748,Flower Fun,10384,1,0
+543,3006,Jordan's Jobs,10384,0,0
+544,3749,Jordan's Jobs,10384,0,0
+545,4426,Jordan's Jobs,10384,1,0
+546,3007,Clowning Around,10384,0,0
+547,3750,Clowning Around,10384,1,0
+548,3008,Let the Chips Fall . . .,10384,0,0
+549,3751,Let the Chips Fall . . .,10384,0,0
+550,4429,Let the Chips Fall . . .,10384,1,0
+551,3009,The Gates,10384,0,0
+552,3752,The Gates,10384,0,0
+553,4430,The Gates,10384,1,0
+554,3010,Goldfish Galore,10384,0,0
+555,3753,Goldfish Galore,10384,1,0
+556,3011,Penny Dates,10384,0,0
+557,3754,Penny Dates,10384,0,0
+558,4431,Penny Dates,10384,1,0
+559,3012,Top Notch Nose Contest,10384,0,0
+560,3755,Top Notch Nose Contest,10384,0,0
+561,4432,Top Notch Nose Contest,10384,1,0
+562,3013,What Percentage?,10384,0,0
+563,3756,What Percentage?,10384,0,0
+564,4434,What Percentage?,10384,1,0
+565,3014,Sketchley Names That Number,10384,0,0
+566,3757,Sketchley Names That Number,10384,0,0
+567,4435,Sketchley Names That Number,10384,1,0
+568,3015,Number Fun,10384,0,0
+569,3758,Number Fun,10384,1,0
+570,3016,Count Them Up,10384,0,0
+571,3759,Count Them Up,10384,1,0
+572,3017,Zelma's ZIP Code,10384,0,0
+573,3760,Zelma's ZIP Code,10384,0,0
+574,4437,Zelma's ZIP Code,10384,1,0
+575,3018,Happy Birthday!,10384,0,0
+576,3761,Happy Birthday!,10384,1,0
+577,3019,Scale Stepping,10384,0,0
+578,3762,Scale Stepping,10384,0,0
+579,4439,Scale Stepping,10384,1,0
+580,3020,Building a Fence,10384,0,0
+581,3763,Building a Fence,10384,1,0
+582,3021,Picnic at the Park,10384,0,0
+583,3764,Picnic at the Park,10384,1,0
+584,3022,How Far in Space?,10384,0,0
+585,3765,How Far in Space?,10384,0,0
+586,4440,How Far in Space?,10384,1,0
+587,3023,More Milk!,10384,0,0
+588,3766,More Milk!,10384,1,0
+589,3024,Designing Doorways for Rich and Riz,10384,0,0
+590,3767,Designing Doorways for Rich and Riz,10384,0,0
+591,4441,Designing Doorways for Rich and Riz,10384,1,0
+592,3025,Fourth of July,10384,0,0
+593,3768,Fourth of July,10384,1,0
+594,3026,Greta's Garden,10384,0,0
+595,3769,Greta's Garden,10384,0,0
+596,4444,Greta's Garden,10384,1,0
+597,3027,Cork Costs,10384,0,0
+598,3770,Cork Costs,10384,0,0
+599,4445,Cork Costs,10384,1,0
+600,3028,A Summer Garden,10384,0,0
+601,3771,A Summer Garden,10384,1,0
+602,3029,Victoria in Bloom,10384,0,0
+603,3772,Victoria in Bloom,10384,0,0
+604,4446,Victoria in Bloom,10384,1,0
+605,3030,Pizza Night,10384,0,0
+606,3773,Pizza Night,10384,0,0
+607,4448,Pizza Night,10384,1,0
+608,3031,Pumpkin Pride,10384,0,0
+609,3774,Pumpkin Pride,10384,0,0
+610,4449,Pumpkin Pride,10384,1,0
+611,3032,Coast to Coast Driving Costs,10384,0,0
+612,3775,Coast to Coast Driving Costs,10384,0,0
+613,4450,Coast to Coast Driving Costs,10384,1,0
+614,3033,In Their Prime,10384,0,0
+615,3776,In Their Prime,10384,0,0
+616,4452,In Their Prime,10384,1,0
+617,3034,Pocket Money,10384,0,0
+618,3777,Pocket Money,10384,1,0
+619,3035,A Jar of Coins,10384,0,0
+620,3778,A Jar of Coins,10384,0,0
+621,4454,A Jar of Coins,10384,1,0
+622,3036,Integer Images,10384,0,0
+623,3779,Integer Images,10384,0,0
+624,4455,Integer Images,10384,1,0
+625,3037,Nova Scotia Quilt,10384,0,0
+626,3780,Nova Scotia Quilt,10384,0,0
+627,4456,Nova Scotia Quilt,10384,1,0
+628,3038,Covered Bridges,10384,0,0
+629,3781,Covered Bridges,10384,0,0
+630,4457,Covered Bridges,10384,1,0
+631,3039,Lunch Line,10384,0,0
+632,3782,Lunch Line,10384,1,0
+633,3040,Lighting the Menorah,10384,0,0
+634,3783,Lighting the Menorah,10384,0,0
+635,4458,Lighting the Menorah,10384,1,0
+636,3041,Stacking Wood,10384,0,0
+637,3784,Stacking Wood,10384,0,0
+638,4459,Stacking Wood,10384,1,0
+639,3042,Picking Flowers,10384,0,0
+640,3785,Picking Flowers,10384,1,0
+641,3043,Fish in a Barrel,10384,0,0
+642,3786,Fish in a Barrel,10384,0,0
+643,4460,Fish in a Barrel,10384,1,0
+644,3044,A Happy New Year Wish,10384,0,0
+645,3787,A Happy New Year Wish,10384,0,0
+646,4461,A Happy New Year Wish,10384,1,0
+647,3045,New Pencils,10384,0,0
+648,3788,New Pencils,10384,1,0
+649,3046,Playground Fun,10384,0,0
+650,3789,Playground Fun,10384,1,0
+651,3047,Common Cents,10384,0,0
+652,3790,Common Cents,10384,0,0
+653,4463,Common Cents,10384,1,0
+654,3048,Birthday Cake,10384,0,0
+655,3791,Birthday Cake,10384,1,0
+656,3049,A Pound of Valentine's Chocolates,10384,0,0
+657,3792,A Pound of Valentine's Chocolates,10384,0,0
+658,4465,A Pound of Valentine's Chocolates,10384,1,0
+659,3050,Book Club,10384,0,0
+660,3793,Book Club,10384,1,0
+661,3051,Which Coupon Is Better?,10384,0,0
+662,3794,Which Coupon Is Better?,10384,0,0
+663,4468,Which Coupon Is Better?,10384,1,0
+664,3052,Pick 'em Up!,10384,0,0
+665,3795,Pick 'em Up!,10384,1,0
+666,3053,Hauling Sand,10384,0,0
+667,3796,Hauling Sand,10384,0,0
+668,4471,Hauling Sand,10384,1,0
+669,3054,Integer Game,10384,0,0
+670,3797,Integer Game,10384,0,0
+671,4472,Integer Game,10384,1,0
+672,3055,Drumsticks,10384,0,0
+673,3798,Drumsticks,10384,1,0
+674,3056,How Old is Dad?,10384,0,0
+675,3799,How Old is Dad?,10384,0,0
+676,4473,How Old is Dad?,10384,1,0
+677,3057,Kwae,10384,0,0
+678,3800,Kwae,10384,0,0
+679,4474,Kwae,10384,1,0
+680,3058,Play Date,10384,0,0
+681,3801,Play Date,10384,1,0
+682,3059,Field Day,10384,0,0
+683,3802,Field Day,10384,1,0
+684,3060,Sundaes,10384,0,0
+685,3803,Sundaes,10384,0,0
+686,4475,Sundaes,10384,1,0
+687,3061,Pirate Treasure,10384,0,0
+688,3804,Pirate Treasure,10384,0,0
+689,4477,Pirate Treasure,10384,1,0
+690,3062,Milo's Mile,10384,0,0
+691,3805,Milo's Mile,10384,0,0
+692,4478,Milo's Mile,10384,1,0
+693,3063,Bat-tastic!,10384,0,0
+694,3806,Bat-tastic!,10384,0,0
+695,4479,Bat-tastic!,10384,1,0
+696,3064,Clean-up Time,10384,0,0
+697,3807,Clean-up Time,10384,1,0
+698,3065,Apple Celebration,10384,0,0
+699,3808,Apple Celebration,10384,0,0
+700,4480,Apple Celebration,10384,1,0
+701,3066,Odds vs. Evens,10384,0,0
+702,3809,Odds vs. Evens,10384,0,0
+703,4481,Odds vs. Evens,10384,1,0
+704,3067,"Up, Up, and Away!",10384,0,0
+705,3810,"Up, Up, and Away!",10384,1,0
+706,3068,Reading Superstars,10384,0,0
+707,3811,Reading Superstars,10384,1,0
+708,3069,Recycling,10384,0,0
+709,3812,Recycling,10384,1,0
+710,3070,Back to School,10384,0,0
+711,3813,Back to School,10384,1,0
+712,3071,Pinecones,10384,0,0
+713,3814,Pinecones,10384,1,0
+714,3072,Bubblegum,10384,0,0
+715,3815,Bubblegum,10384,1,0
+716,3073,Time to Get Up,10384,0,0
+717,3816,Time to Get Up,10384,0,0
+718,4482,Time to Get Up,10384,1,0
+719,3074,The Cost of Chocolate,10384,0,0
+720,3817,The Cost of Chocolate,10384,0,0
+721,4483,The Cost of Chocolate,10384,1,0
+722,3075,Shop 'Til You Drop,10384,0,0
+723,3818,Shop 'Til You Drop,10384,0,0
+724,4484,Shop 'Til You Drop,10384,1,0
+725,3076,Getting Your Kicks On Route 66,10384,0,0
+726,3819,Getting Your Kicks On Route 66,10384,0,0
+727,4485,Getting Your Kicks On Route 66,10384,1,0
+728,3077,Saving Up,10384,0,0
+729,3820,Saving Up,10384,1,0
+730,3078,Golden Gate Bridge,10384,0,0
+731,3821,Golden Gate Bridge,10384,0,0
+732,4487,Golden Gate Bridge,10384,1,0
+733,3079,Wheels R Us,10384,0,0
+734,3822,Wheels R Us,10384,0,0
+735,4490,Wheels R Us,10384,1,0
+736,3080,The Kickball Tournament,10384,0,0
+737,3823,The Kickball Tournament,10384,0,0
+738,4492,The Kickball Tournament,10384,1,0
+739,3081,Box of Boxes,10384,0,0
+740,3824,Box of Boxes,10384,0,0
+741,4493,Box of Boxes,10384,1,0
+742,3082,Homework-Free Fridays,10384,0,0
+743,3825,Homework-Free Fridays,10384,0,0
+744,4495,Homework-Free Fridays,10384,1,0
+745,3083,Marathon Man,10384,0,0
+746,3826,Marathon Man,10384,0,0
+747,4496,Marathon Man,10384,1,0
+748,3084,Trapezoid Teatime,10384,0,0
+749,3827,Trapezoid Teatime,10384,0,0
+750,4498,Trapezoid Teatime,10384,1,0
+751,3085,Math Club Field Trip,10384,0,0
+752,3828,Math Club Field Trip,10384,0,0
+753,4500,Math Club Field Trip,10384,1,0
+754,3086,Tunnel Time,10384,0,0
+755,3829,Tunnel Time,10384,0,0
+756,4501,Tunnel Time,10384,1,0
+757,3087,Counting Gumballs,10384,0,0
+758,3830,Counting Gumballs,10384,1,0
+759,3088,Bobsled Sums,10384,0,0
+760,3831,Bobsled Sums,10384,0,0
+761,4502,Bobsled Sums,10384,1,0
+762,3089,Pizza Dough,10384,0,0
+763,3832,Pizza Dough,10384,0,0
+764,4505,Pizza Dough,10384,1,0
+765,3090,Cyndy's Curtains,10384,0,0
+766,3833,Cyndy's Curtains,10384,0,0
+767,4506,Cyndy's Curtains,10384,1,0
+768,3091,Hannah's Cookies,10384,0,0
+769,3834,Hannah's Cookies,10384,1,0
+770,3092,It's Summer in Melbourne,10384,0,0
+771,3835,It's Summer in Melbourne,10384,0,0
+772,4507,It's Summer in Melbourne,10384,1,0
+773,3093,Pretzel Riddle,10384,0,0
+774,3836,Pretzel Riddle,10384,1,0
+775,3094,Mr. Lincoln's Line,10384,0,0
+776,3837,Mr. Lincoln's Line,10384,0,0
+777,4509,Mr. Lincoln's Line,10384,1,0
+778,3095,Basic Breakfast Buffet,10384,0,0
+779,3838,Basic Breakfast Buffet,10384,0,0
+780,4510,Basic Breakfast Buffet,10384,1,0
+781,3096,Playing Cards,10384,0,0
+782,3839,Playing Cards,10384,1,0
+783,3097,Mini-Mall Measurements,10384,0,0
+784,3840,Mini-Mall Measurements,10384,0,0
+785,4512,Mini-Mall Measurements,10384,1,0
+786,3098,Snack Time!,10384,0,0
+787,3841,Snack Time!,10384,1,0
+788,3099,Imogene the Imp,10384,0,0
+789,3842,Imogene the Imp,10384,0,0
+790,4514,Imogene the Imp,10384,1,0
+791,3100,Yummy Gummy Bears,10384,0,0
+792,3843,Yummy Gummy Bears,10384,1,0
+793,3101,The Math of the Irish,10384,0,0
+794,3844,The Math of the Irish,10384,0,0
+795,4516,The Math of the Irish,10384,1,0
+796,3102,Bank Balances,10384,0,0
+797,3845,Bank Balances,10384,0,0
+798,4517,Bank Balances,10384,1,0
+799,3103,Darlene's Dart Board,10384,0,0
+800,3846,Darlene's Dart Board,10384,0,0
+801,4518,Darlene's Dart Board,10384,1,0
+802,3104,Cara's Cookies,10384,0,0
+803,3847,Cara's Cookies,10384,0,0
+804,4519,Cara's Cookies,10384,1,0
+805,3105,Model Car Collection,10384,0,0
+806,3848,Model Car Collection,10384,1,0
+807,3106,A Pound of Tea,10384,0,0
+808,3849,A Pound of Tea,10384,0,0
+809,4520,A Pound of Tea,10384,1,0
+810,3107,Mikey and Lily Eat Cereal,10384,0,0
+811,3850,Mikey and Lily Eat Cereal,10384,0,0
+812,4521,Mikey and Lily Eat Cereal,10384,1,0
+813,3108,The Van Ride,10384,0,0
+814,3851,The Van Ride,10384,1,0
+815,3109,Buy the Numbers,10384,0,0
+816,3852,Buy the Numbers,10384,0,0
+817,4522,Buy the Numbers,10384,1,0
+818,3110,Cynthia's Solitaire Challenge,10384,0,0
+819,3853,Cynthia's Solitaire Challenge,10384,0,0
+820,4523,Cynthia's Solitaire Challenge,10384,1,0
+821,3111,Decorating Cookies,10384,0,0
+822,3854,Decorating Cookies,10384,1,0
+823,3112,Just the Facts,10384,0,0
+824,3855,Just the Facts,10384,0,0
+825,4524,Just the Facts,10384,1,0
+826,3113,Salad Daze,10384,0,0
+827,3856,Salad Daze,10384,0,0
+828,4527,Salad Daze,10384,1,0
+829,3114,Ian's Rides,10384,0,0
+830,3857,Ian's Rides,10384,0,0
+831,4528,Ian's Rides,10384,1,0
+832,3115,Gum for Everyone!,10384,0,0
+833,3858,Gum for Everyone!,10384,1,0
+834,3116,Puppies for Sale,10384,0,0
+835,3859,Puppies for Sale,10384,1,0
+836,3117,Name That Shape!,10384,0,0
+837,3860,Name That Shape!,10384,1,0
+838,3118,Catching Minnows,10384,0,0
+839,3861,Catching Minnows,10384,1,0
+840,3119,Picture This,10384,0,0
+841,3862,Picture This,10384,1,0
+842,3120,How Far Will Taylor Run?,10384,0,0
+843,3863,How Far Will Taylor Run?,10384,0,0
+844,4529,How Far Will Taylor Run?,10384,1,0
+845,3121,Trolls and Dogs,10384,0,0
+846,3864,Trolls and Dogs,10384,0,0
+847,4530,Trolls and Dogs,10384,1,0
+848,3122,Counting Cars,10384,0,0
+849,3865,Counting Cars,10384,1,0
+850,3123,Growing Up,10384,0,0
+851,3866,Growing Up,10384,1,0
+852,3124,Making Cookies,10384,0,0
+853,3867,Making Cookies,10384,1,0
+854,3125,Color Competition,10384,0,0
+855,3868,Color Competition,10384,1,0
+856,3126,Getting Allowance,10384,0,0
+857,3869,Getting Allowance,10384,1,0
+858,3127,Making Sandwiches,10384,0,0
+859,3870,Making Sandwiches,10384,1,0
+860,3128,The Eagle and the Bear,10384,0,0
+861,3871,The Eagle and the Bear,10384,0,0
+862,4531,The Eagle and the Bear,10384,1,0
+863,3129,How Many Berries Did I Eat?,10384,0,0
+864,3872,How Many Berries Did I Eat?,10384,1,0
+865,3130,What Do I Have in My Bag?,10384,0,0
+866,3873,What Do I Have in My Bag?,10384,1,0
+867,3131,Back-to-School Shopping,10384,0,0
+868,3874,Back-to-School Shopping,10384,0,0
+869,4532,Back-to-School Shopping,10384,1,0
+870,3132,Eating Grapes,10384,0,0
+871,3875,Eating Grapes,10384,0,0
+872,4534,Eating Grapes,10384,1,0
+873,3133,Baseball Cards,10384,0,0
+874,3876,Baseball Cards,10384,0,0
+875,4535,Baseball Cards,10384,1,0
+876,3134,Tangrams,10384,0,0
+877,3877,Tangrams,10384,0,0
+878,4538,Tangrams,10384,1,0
+879,3135,Counting Chicken Wings,10384,0,0
+880,3878,Counting Chicken Wings,10384,0,0
+881,4539,Counting Chicken Wings,10384,1,0
+882,3136,Different Shapes,10384,0,0
+883,3879,Different Shapes,10384,1,0
+884,3137,Counting Cats and Dogs,10384,0,0
+885,3880,Counting Cats and Dogs,10384,0,0
+886,4541,Counting Cats and Dogs,10384,1,0
+887,3138,Apple Picking,10384,0,0
+888,3881,Apple Picking,10384,0,0
+889,4542,Apple Picking,10384,1,0
+890,3139,Building a Tower,10384,0,0
+891,3882,Building a Tower,10384,1,0
+892,3140,Emmy's Action Figures,10384,0,0
+893,3883,Emmy's Action Figures,10384,0,0
+894,4545,Emmy's Action Figures,10384,1,0
+895,3141,Miracle Miranda and the Mascot,10384,0,0
+896,3884,Miracle Miranda and the Mascot,10384,0,0
+897,4547,Miracle Miranda and the Mascot,10384,1,0
+898,3142,Ants on a Bun,10384,0,0
+899,3885,Ants on a Bun,10384,1,0
+900,3143,Shopping at the School Store,10384,0,0
+901,3886,Shopping at the School Store,10384,0,0
+902,4551,Shopping at the School Store,10384,1,0
+903,3144,A Game of Dice,10384,0,0
+904,3887,A Game of Dice,10384,1,0
+905,3145,Horsin' Around,10384,0,0
+906,3888,Horsin' Around,10384,0,0
+907,4553,Horsin' Around,10384,1,0
+908,3146,Sketchley Names That Negative,10384,0,0
+909,3889,Sketchley Names That Negative,10384,0,0
+910,4554,Sketchley Names That Negative,10384,1,0
+911,3147,How Big Is Your Foot?,10384,0,0
+912,3890,How Big Is Your Foot?,10384,1,0
+913,3148,Chelsea's Number Puzzle,10384,0,0
+914,3891,Chelsea's Number Puzzle,10384,0,0
+915,4556,Chelsea's Number Puzzle,10384,1,0
+916,3149,Sharing Smelt,10384,0,0
+917,3892,Sharing Smelt,10384,0,0
+918,4558,Sharing Smelt,10384,1,0
+919,3150,Richard's Rides,10384,0,0
+920,3893,Richard's Rides,10384,0,0
+921,4559,Richard's Rides,10384,1,0
+922,3151,"Dragons and Tigers and Hares, Oh My!",10384,0,0
+923,3894,"Dragons and Tigers and Hares, Oh My!",10384,0,0
+924,4560,"Dragons and Tigers and Hares, Oh My!",10384,1,0
+925,3152,Symmetry Surprise,10384,0,0
+926,3895,Symmetry Surprise,10384,0,0
+927,4561,Symmetry Surprise,10384,1,0
+928,3153,How Many Pinecones?,10384,0,0
+929,3896,How Many Pinecones?,10384,1,0
+930,3154,Days on Other Planets,10384,0,0
+931,3897,Days on Other Planets,10384,0,0
+932,4563,Days on Other Planets,10384,1,0
+933,3155,Saul's Cupcakes,10384,0,0
+934,3898,Saul's Cupcakes,10384,1,0
+935,3156,The Teddy Bears' Banquet,10384,0,0
+936,3899,The Teddy Bears' Banquet,10384,0,0
+937,4564,The Teddy Bears' Banquet,10384,1,0
+938,3157,Marble Mayhem,10384,0,0
+939,3900,Marble Mayhem,10384,0,0
+940,4566,Marble Mayhem,10384,1,0
+941,3158,Heavy Hoisting,10384,0,0
+942,3901,Heavy Hoisting,10384,0,0
+943,4567,Heavy Hoisting,10384,1,0
+944,3159,Siblings,10384,0,0
+945,3902,Siblings,10384,0,0
+946,4568,Siblings,10384,1,0
+947,3160,Sheila's Shelves,10384,0,0
+948,3903,Sheila's Shelves,10384,0,0
+949,4569,Sheila's Shelves,10384,1,0
+950,3161,The Snake's Next Meal,10384,0,0
+951,3904,The Snake's Next Meal,10384,1,0
+952,3162,Crossing the River with Ogres,10384,0,0
+953,3905,Crossing the River with Ogres,10384,0,0
+954,4570,Crossing the River with Ogres,10384,1,0
+955,3163,Gym Line,10384,0,0
+956,3906,Gym Line,10384,1,0
+957,3164,Frog Farming,10384,0,0
+958,3907,Frog Farming,10384,0,0
+959,4572,Frog Farming,10384,1,0
+960,3165,Something Fishy,10384,0,0
+961,3908,Something Fishy,10384,0,0
+962,4574,Something Fishy,10384,1,0
+963,3166,Downloading Duel,10384,0,0
+964,3909,Downloading Duel,10384,0,0
+965,4575,Downloading Duel,10384,1,0
+966,3167,Counting Comics,10384,0,0
+967,3910,Counting Comics,10384,1,0
+968,3168,How Tall Is Your Tower?,10384,0,0
+969,3911,How Tall Is Your Tower?,10384,1,0
+970,3169,Lining Up for Lunch,10384,0,0
+971,3912,Lining Up for Lunch,10384,1,0
+972,3170,Donut Sale,10384,0,0
+973,3913,Donut Sale,10384,1,0
+974,3171,Dog Packs,10384,0,0
+975,3914,Dog Packs,10384,1,0
+976,3172,Counting Shells,10384,0,0
+977,3915,Counting Shells,10384,1,0
+978,3173,Goody Bags,10384,0,0
+979,3916,Goody Bags,10384,1,0
+980,3174,Laying Carpet,10384,0,0
+981,3917,Laying Carpet,10384,1,0
+982,3175,Donuts on a Tray,10384,0,0
+983,3918,Donuts on a Tray,10384,1,0
+984,3176,Charlie's Gumballs,10384,0,0
+985,3919,Charlie's Gumballs,10384,0,0
+986,4576,Charlie's Gumballs,10384,1,0
+987,3177,The Arm Wrestling Match,10384,0,0
+988,3920,The Arm Wrestling Match,10384,0,0
+989,4577,The Arm Wrestling Match,10384,1,0
+990,3178,Add or Subtract?,10384,0,0
+991,3921,Add or Subtract?,10384,1,0
+992,3179,At the Fair,10384,0,0
+993,3922,At the Fair,10384,1,0
+994,3180,A Walk to the Park,10384,0,0
+995,3923,A Walk to the Park,10384,1,0
+996,3181,Subway Tokens,10384,0,0
+997,3924,Subway Tokens,10384,0,0
+998,4578,Subway Tokens,10384,1,0
+999,3182,Prize Box,10384,0,0
+1000,3925,Prize Box,10384,1,0
+1001,3183,You Think Your Teacher is Tough!,10384,0,0
+1002,3926,You Think Your Teacher is Tough!,10384,0,0
+1003,4581,You Think Your Teacher is Tough!,10384,1,0
+1004,3184,Order in the Court,10384,0,0
+1005,3927,Order in the Court,10384,0,0
+1006,4584,Order in the Court,10384,1,0
+1007,3185,Growing Worms,10384,0,0
+1008,3928,Growing Worms,10384,0,0
+1009,4587,Growing Worms,10384,1,0
+1010,3186,Measuring Melons,10384,0,0
+1011,3929,Measuring Melons,10384,0,0
+1012,4588,Measuring Melons,10384,1,0
+1013,3187,Colorful Candies,10384,0,0
+1014,3930,Colorful Candies,10384,1,0
+1015,3188,Wooden Legs,10384,0,0
+1016,3931,Wooden Legs,10384,0,0
+1017,4589,Wooden Legs,10384,1,0
+1018,3189,Ostrich Llama Count,10384,0,0
+1019,3932,Ostrich Llama Count,10384,0,0
+1020,4590,Ostrich Llama Count,10384,1,0
+1021,3190,Nuts in a Bowl,10384,0,0
+1022,3933,Nuts in a Bowl,10384,0,0
+1023,4593,Nuts in a Bowl,10384,1,0
+1024,3191,Two Heads Are Better Than One,10384,0,0
+1025,3934,Two Heads Are Better Than One,10384,0,0
+1026,4594,Two Heads Are Better Than One,10384,1,0
+1027,3192,Building Barns,10384,0,0
+1028,3935,Building Barns,10384,0,0
+1029,4596,Building Barns,10384,1,0
+1030,3193,Lillian's Lines,10384,0,0
+1031,3936,Lillian's Lines,10384,0,0
+1032,4597,Lillian's Lines,10384,1,0
+1033,3194,Rugby Rules!,10384,0,0
+1034,3937,Rugby Rules!,10384,0,0
+1035,4600,Rugby Rules!,10384,1,0
+1036,3195,Gas Guzzlers,10384,0,0
+1037,3938,Gas Guzzlers,10384,0,0
+1038,4601,Gas Guzzlers,10384,1,0
+1039,3196,Change You Can't Count On,10384,0,0
+1040,3939,Change You Can't Count On,10384,0,0
+1041,4603,Change You Can't Count On,10384,1,0
+1042,3197,Unknown Numbers,10384,0,0
+1043,3940,Unknown Numbers,10384,0,0
+1044,4604,Unknown Numbers,10384,1,0
+1045,3198,Dashing Through the Snow,10384,0,0
+1046,3941,Dashing Through the Snow,10384,0,0
+1047,4606,Dashing Through the Snow,10384,1,0
+1048,3199,Movie Seating,10384,0,0
+1049,3942,Movie Seating,10384,0,0
+1050,4607,Movie Seating,10384,1,0
+1051,3200,The Farmer in the Dilemma,10384,0,0
+1052,3943,The Farmer in the Dilemma,10384,0,0
+1053,4608,The Farmer in the Dilemma,10384,1,0
+1054,3201,Toys To Go,10384,0,0
+1055,3944,Toys To Go,10384,0,0
+1056,4610,Toys To Go,10384,1,0
+1057,3202,Chicken Little's Eggs,10384,0,0
+1058,3945,Chicken Little's Eggs,10384,0,0
+1059,4614,Chicken Little's Eggs,10384,1,0
+1060,3203,Mixing Marbles,10384,0,0
+1061,3946,Mixing Marbles,10384,0,0
+1062,4615,Mixing Marbles,10384,1,0
+1063,3204,Sharing Birthdays,10384,0,0
+1064,3947,Sharing Birthdays,10384,0,0
+1065,4617,Sharing Birthdays,10384,1,0
+1066,3205,Peeling Potatoes,10384,0,0
+1067,3948,Peeling Potatoes,10384,0,0
+1068,4618,Peeling Potatoes,10384,1,0
+1069,3206,Zoo Train,10384,0,0
+1070,3949,Zoo Train,10384,0,0
+1071,4619,Zoo Train,10384,1,0
+1072,3207,She Counts Seashells,10384,0,0
+1073,3950,She Counts Seashells,10384,0,0
+1074,4622,She Counts Seashells,10384,1,0
+1075,3208,Bartering for Bananas,10384,0,0
+1076,3951,Bartering for Bananas,10384,0,0
+1077,4623,Bartering for Bananas,10384,1,0
+1078,3209,Sports Weigh In,10384,0,0
+1079,3952,Sports Weigh In,10384,0,0
+1080,4625,Sports Weigh In,10384,1,0
+1081,3210,Four Dates,10384,0,0
+1082,3953,Four Dates,10384,0,0
+1083,4626,Four Dates,10384,1,0
+1084,3211,"Waste Not, Want Not",10384,0,0
+1085,3954,"Waste Not, Want Not",10384,0,0
+1086,4627,"Waste Not, Want Not",10384,1,0
+1087,3212,"Moons, by Jove!",10384,0,0
+1088,3955,"Moons, by Jove!",10384,0,0
+1089,4628,"Moons, by Jove!",10384,1,0
+1090,3213,Sing a Song of Sunscreen,10384,0,0
+1091,3956,Sing a Song of Sunscreen,10384,0,0
+1092,4629,Sing a Song of Sunscreen,10384,1,0
+1093,3214,Pooling Tips,10384,0,0
+1094,3957,Pooling Tips,10384,0,0
+1095,4630,Pooling Tips,10384,1,0
+1096,3215,At Least a Mile,10384,0,0
+1097,3958,At Least a Mile,10384,0,0
+1098,4631,At Least a Mile,10384,1,0
+1099,3216,Kaytee's Contest,10384,0,0
+1100,3959,Kaytee's Contest,10384,0,0
+1101,4632,Kaytee's Contest,10384,1,0
+1102,3217,Heidi's Hometown,10384,0,0
+1103,3960,Heidi's Hometown,10384,0,0
+1104,4634,Heidi's Hometown,10384,1,0
+1105,3218,Watch Where You Step!,10384,0,0
+1106,3961,Watch Where You Step!,10384,0,0
+1107,4635,Watch Where You Step!,10384,1,0
+1108,3219,Jason's Piggy Bank,10384,0,0
+1109,3962,Jason's Piggy Bank,10384,0,0
+1110,4638,Jason's Piggy Bank,10384,1,0
+1111,3220,All Aboard!,10384,0,0
+1112,3963,All Aboard!,10384,0,0
+1113,4643,All Aboard!,10384,1,0
+1114,3221,Holiday Ornaments,10384,0,0
+1115,3964,Holiday Ornaments,10384,0,0
+1116,4644,Holiday Ornaments,10384,1,0
+1117,3222,The Oracle's Crowns,10384,0,0
+1118,3965,The Oracle's Crowns,10384,0,0
+1119,4646,The Oracle's Crowns,10384,1,0
+1120,3223,How Old is Mia?,10384,0,0
+1121,3966,How Old is Mia?,10384,0,0
+1122,4647,How Old is Mia?,10384,1,0
+1123,3224,Pauline the Plumber,10384,0,0
+1124,3967,Pauline the Plumber,10384,0,0
+1125,4648,Pauline the Plumber,10384,1,0
+1126,3225,Assembly Seating,10384,0,0
+1127,3968,Assembly Seating,10384,0,0
+1128,4652,Assembly Seating,10384,1,0
+1129,3226,Shelvin's Scores,10384,0,0
+1130,3969,Shelvin's Scores,10384,0,0
+1131,4653,Shelvin's Scores,10384,1,0
+1132,3227,Val's Value,10384,0,0
+1133,3970,Val's Value,10384,1,0
+1134,3228,Clock Work,10384,0,0
+1135,3971,Clock Work,10384,1,0
+1136,3229,Missing Pages,10384,0,0
+1137,3972,Missing Pages,10384,1,0
+1138,3230,Lightning Strikes,10384,0,0
+1139,3973,Lightning Strikes,10384,0,0
+1140,4219,Lightning Strikes,10384,1,0
+1141,3231,Baseball Attendance Figures,10384,0,0
+1142,3982,Baseball Attendance Figures,10384,0,0
+1143,4162,Baseball Attendance Figures,10384,1,0
+1144,3232,Open and Shut Case,10384,0,0
+1145,3983,Open and Shut Case,10384,0,0
+1146,4165,Open and Shut Case,10384,1,0
+1147,3233,Guess My Number If You Can!,10384,0,0
+1148,3984,Guess My Number If You Can!,10384,0,0
+1149,4166,Guess My Number If You Can!,10384,1,0
+1150,3234,Locker Combinations,10384,0,0
+1151,3985,Locker Combinations,10384,0,0
+1152,4169,Locker Combinations,10384,1,0
+1153,3235,Shine On Harvest Moon,10384,0,0
+1154,3986,Shine On Harvest Moon,10384,0,0
+1155,4173,Shine On Harvest Moon,10384,1,0
+1156,3236,Pouring the Punch,10384,0,0
+1157,3987,Pouring the Punch,10384,0,0
+1158,4177,Pouring the Punch,10384,1,0
+1159,3237,"Runsums, Part 1",10384,0,0
+1160,3988,"Runsums, Part 1",10384,0,0
+1161,4182,"Runsums, Part 1",10384,1,0
+1162,3238,"Runsums, Part 2",10384,0,0
+1163,3989,"Runsums, Part 2",10384,0,0
+1164,4184,"Runsums, Part 2",10384,1,0
+1165,3239,Perfect Apples,10384,0,0
+1166,3990,Perfect Apples,10384,0,0
+1167,4187,Perfect Apples,10384,1,0
+1168,3240,The Custom of Customs,10384,0,0
+1169,3991,The Custom of Customs,10384,0,0
+1170,4190,The Custom of Customs,10384,1,0
+1171,3241,Coin Count,10384,0,0
+1172,3992,Coin Count,10384,0,0
+1173,4192,Coin Count,10384,1,0
+1174,3242,Lost in Des Moines,10384,0,0
+1175,3993,Lost in Des Moines,10384,0,0
+1176,4194,Lost in Des Moines,10384,1,0
+1177,3243,Tennis Anyone?,10384,0,0
+1178,3994,Tennis Anyone?,10384,0,0
+1179,4199,Tennis Anyone?,10384,1,0
+1180,3244,My Almond Cookie Bake,10384,0,0
+1181,3995,My Almond Cookie Bake,10384,0,0
+1182,4200,My Almond Cookie Bake,10384,1,0
+1183,3245,Irish Specials,10384,0,0
+1184,3996,Irish Specials,10384,0,0
+1185,4202,Irish Specials,10384,1,0
+1186,3246,Seating Arrangements,10384,0,0
+1187,3997,Seating Arrangements,10384,0,0
+1188,4203,Seating Arrangements,10384,1,0
+1189,3247,Lettuce for Sale,10384,0,0
+1190,3998,Lettuce for Sale,10384,0,0
+1191,4205,Lettuce for Sale,10384,1,0
+1192,3248,How Wide Is My Garden?,10384,0,0
+1193,3999,How Wide Is My Garden?,10384,0,0
+1194,4207,How Wide Is My Garden?,10384,1,0
+1195,3249,Stained Glass Window,10384,0,0
+1196,4000,Stained Glass Window,10384,0,0
+1197,4211,Stained Glass Window,10384,1,0
+1198,3250,Back Yard Trees,10384,0,0
+1199,4001,Back Yard Trees,10384,0,0
+1200,4212,Back Yard Trees,10384,1,0
+1201,3251,Even Number Puzzle,10384,0,0
+1202,4002,Even Number Puzzle,10384,0,0
+1203,4215,Even Number Puzzle,10384,1,0
+1204,3252,Label Shuffle,10384,0,0
+1205,4003,Label Shuffle,10384,0,0
+1206,4224,Label Shuffle,10384,1,0
+1207,3253,How Old is Ms. Nelson?,10384,0,0
+1208,4004,How Old is Ms. Nelson?,10384,0,0
+1209,4229,How Old is Ms. Nelson?,10384,1,0
+1210,3254,Canadian Soccer,10384,0,0
+1211,4005,Canadian Soccer,10384,0,0
+1212,4232,Canadian Soccer,10384,1,0
+1213,3255,Downhill All the Way,10384,0,0
+1214,4006,Downhill All the Way,10384,0,0
+1215,4236,Downhill All the Way,10384,1,0
+1216,3256,Building Fences,10384,0,0
+1217,4007,Building Fences,10384,0,0
+1218,4239,Building Fences,10384,1,0
+1219,3257,The Big Picture!,10384,0,0
+1220,4008,The Big Picture!,10384,0,0
+1221,4243,The Big Picture!,10384,1,0
+1222,3258,Distance Driving,10384,0,0
+1223,4009,Distance Driving,10384,0,0
+1224,4250,Distance Driving,10384,1,0
+1225,3259,Nine Congruent Rectangles,10384,0,0
+1226,4010,Nine Congruent Rectangles,10384,0,0
+1227,4251,Nine Congruent Rectangles,10384,1,0
+1228,3260,"Chocolate, Orange, Mega-mint Swirl",10384,0,0
+1229,4011,"Chocolate, Orange, Mega-mint Swirl",10384,0,0
+1230,4252,"Chocolate, Orange, Mega-mint Swirl",10384,1,0
+1231,3261,Sprinkler Spray,10384,0,0
+1232,4012,Sprinkler Spray,10384,0,0
+1233,4253,Sprinkler Spray,10384,1,0
+1234,3262,Bouncing Babies,10384,0,0
+1235,4013,Bouncing Babies,10384,0,0
+1236,4254,Bouncing Babies,10384,1,0
+1237,3263,Do you listen to WMTH or WALG?,10384,0,0
+1238,4014,Do you listen to WMTH or WALG?,10384,0,0
+1239,4255,Do you listen to WMTH or WALG?,10384,1,0
+1240,3264,Chamique the Archer,10384,0,0
+1241,4015,Chamique the Archer,10384,0,0
+1242,4257,Chamique the Archer,10384,1,0
+1243,3265,The Graduating Class,10384,0,0
+1244,4016,The Graduating Class,10384,0,0
+1245,4259,The Graduating Class,10384,1,0
+1246,3266,Which Pizza?,10384,0,0
+1247,4017,Which Pizza?,10384,0,0
+1248,4260,Which Pizza?,10384,1,0
+1249,3267,Study Hall Games,10384,0,0
+1250,4018,Study Hall Games,10384,0,0
+1251,4263,Study Hall Games,10384,1,0
+1252,3268,Scientific Sums,10384,0,0
+1253,4019,Scientific Sums,10384,0,0
+1254,4267,Scientific Sums,10384,1,0
+1255,3269,Building on Water,10384,0,0
+1256,4020,Building on Water,10384,0,0
+1257,4273,Building on Water,10384,1,0
+1258,3270,Partial Area,10384,0,0
+1259,4021,Partial Area,10384,0,0
+1260,4282,Partial Area,10384,1,0
+1261,3271,Building a Snow Statue,10384,0,0
+1262,4022,Building a Snow Statue,10384,0,0
+1263,4285,Building a Snow Statue,10384,1,0
+1264,3272,Saturday Bike Ride,10384,0,0
+1265,4023,Saturday Bike Ride,10384,0,0
+1266,4287,Saturday Bike Ride,10384,1,0
+1267,3273,The Sun vs. The Earth,10384,0,0
+1268,4024,The Sun vs. The Earth,10384,0,0
+1269,4289,The Sun vs. The Earth,10384,1,0
+1270,3274,The Good Samaritan,10384,0,0
+1271,4025,The Good Samaritan,10384,0,0
+1272,4291,The Good Samaritan,10384,1,0
+1273,3275,Susita's Savings Account,10384,0,0
+1274,4026,Susita's Savings Account,10384,0,0
+1275,4293,Susita's Savings Account,10384,1,0
+1276,3276,Quilting Squares,10384,0,0
+1277,4027,Quilting Squares,10384,0,0
+1278,4296,Quilting Squares,10384,1,0
+1279,3277,Batter Up!,10384,0,0
+1280,4028,Batter Up!,10384,0,0
+1281,4298,Batter Up!,10384,1,0
+1282,3278,Milk Madness,10384,0,0
+1283,4029,Milk Madness,10384,0,0
+1284,4300,Milk Madness,10384,1,0
+1285,3279,Golfing Luck?,10384,0,0
+1286,4030,Golfing Luck?,10384,0,0
+1287,4302,Golfing Luck?,10384,1,0
+1288,3280,Commuting Conundrum,10384,0,0
+1289,4031,Commuting Conundrum,10384,0,0
+1290,4305,Commuting Conundrum,10384,1,0
+1291,3281,Ships Ahoy!,10384,0,0
+1292,4032,Ships Ahoy!,10384,0,0
+1293,4311,Ships Ahoy!,10384,1,0
+1294,3282,Tiling Triangles,10384,0,0
+1295,4033,Tiling Triangles,10384,0,0
+1296,4314,Tiling Triangles,10384,1,0
+1297,3283,Dividing Daffodils,10384,0,0
+1298,4034,Dividing Daffodils,10384,0,0
+1299,4315,Dividing Daffodils,10384,1,0
+1300,3284,Coding Conundrums,10384,0,0
+1301,4035,Coding Conundrums,10384,0,0
+1302,4317,Coding Conundrums,10384,1,0
+1303,3285,Mirror Musing,10384,0,0
+1304,4036,Mirror Musing,10384,0,0
+1305,4318,Mirror Musing,10384,1,0
+1306,3286,Ducky Promenade,10384,0,0
+1307,4037,Ducky Promenade,10384,0,0
+1308,4320,Ducky Promenade,10384,1,0
+1309,3287,Congruent Rectangles,10384,0,0
+1310,4038,Congruent Rectangles,10384,0,0
+1311,4321,Congruent Rectangles,10384,1,0
+1312,3288,Kristina's Code,10384,0,0
+1313,4039,Kristina's Code,10384,0,0
+1314,4322,Kristina's Code,10384,1,0
+1315,3289,Triangle Transformation,10384,0,0
+1316,4040,Triangle Transformation,10384,0,0
+1317,4330,Triangle Transformation,10384,1,0
+1318,3290,My Three Dogs,10384,0,0
+1319,4041,My Three Dogs,10384,0,0
+1320,4331,My Three Dogs,10384,1,0
+1321,3291,The Folding Ruler,10384,0,0
+1322,4042,The Folding Ruler,10384,0,0
+1323,4338,The Folding Ruler,10384,1,0
+1324,3292,The Scientific Notation Game,10384,0,0
+1325,4043,The Scientific Notation Game,10384,0,0
+1326,4342,The Scientific Notation Game,10384,1,0
+1327,3293,Regional Ratios,10384,0,0
+1328,4044,Regional Ratios,10384,0,0
+1329,4346,Regional Ratios,10384,1,0
+1330,3294,Prime Probability,10384,0,0
+1331,4045,Prime Probability,10384,0,0
+1332,4349,Prime Probability,10384,1,0
+1333,3295,Operation Warm Up,10384,0,0
+1334,4046,Operation Warm Up,10384,0,0
+1335,4357,Operation Warm Up,10384,1,0
+1336,3296,Divisible by a Dozen,10384,0,0
+1337,4047,Divisible by a Dozen,10384,0,0
+1338,4359,Divisible by a Dozen,10384,1,0
+1339,3297,Mind Reading,10384,0,0
+1340,4048,Mind Reading,10384,0,0
+1341,4360,Mind Reading,10384,1,0
+1342,3298,Fences for Fido and Friends,10384,0,0
+1343,4049,Fences for Fido and Friends,10384,0,0
+1344,4362,Fences for Fido and Friends,10384,1,0
+1345,3299,Ready for Football?,10384,0,0
+1346,4050,Ready for Football?,10384,0,0
+1347,4365,Ready for Football?,10384,1,0
+1348,3300,Time Trial Triumphs,10384,0,0
+1349,4051,Time Trial Triumphs,10384,0,0
+1350,4367,Time Trial Triumphs,10384,1,0
+1351,3301,Geo in Jeopardy,10384,0,0
+1352,4052,Geo in Jeopardy,10384,0,0
+1353,4369,Geo in Jeopardy,10384,1,0
+1354,3302,Cherokee Creek Checkers Club,10384,0,0
+1355,4053,Cherokee Creek Checkers Club,10384,0,0
+1356,4370,Cherokee Creek Checkers Club,10384,1,0
+1357,3303,Chirp! Chirp!,10384,0,0
+1358,4054,Chirp! Chirp!,10384,0,0
+1359,4372,Chirp! Chirp!,10384,1,0
+1360,3304,Perfect Timing,10384,0,0
+1361,4055,Perfect Timing,10384,0,0
+1362,4374,Perfect Timing,10384,1,0
+1363,3305,Count Your Change,10384,0,0
+1364,4056,Count Your Change,10384,0,0
+1365,4375,Count Your Change,10384,1,0
+1366,3306,Garden Grove,10384,0,0
+1367,4057,Garden Grove,10384,0,0
+1368,4377,Garden Grove,10384,1,0
+1369,3307,Accounting for Age,10384,0,0
+1370,4058,Accounting for Age,10384,0,0
+1371,4379,Accounting for Age,10384,1,0
+1372,3308,Marathon Mitch,10384,0,0
+1373,4059,Marathon Mitch,10384,0,0
+1374,4382,Marathon Mitch,10384,1,0
+1375,3309,Pressed For Time,10384,0,0
+1376,4060,Pressed For Time,10384,0,0
+1377,4389,Pressed For Time,10384,1,0
+1378,3310,All the Similar Triangles,10384,0,0
+1379,4061,All the Similar Triangles,10384,0,0
+1380,4393,All the Similar Triangles,10384,1,0
+1381,3311,Riz's Route,10384,0,0
+1382,4062,Riz's Route,10384,0,0
+1383,4395,Riz's Route,10384,1,0
+1384,3312,Colors of the Olympic Rings,10384,0,0
+1385,4063,Colors of the Olympic Rings,10384,0,0
+1386,4397,Colors of the Olympic Rings,10384,1,0
+1387,3313,Battle of the Bands,10384,0,0
+1388,4064,Battle of the Bands,10384,0,0
+1389,4398,Battle of the Bands,10384,1,0
+1390,3314,Reversal of Ages,10384,0,0
+1391,4065,Reversal of Ages,10384,0,0
+1392,4399,Reversal of Ages,10384,1,0
+1393,3315,Square Segments,10384,0,0
+1394,4066,Square Segments,10384,0,0
+1395,4401,Square Segments,10384,1,0
+1396,3316,Bowling Buddies,10384,0,0
+1397,4067,Bowling Buddies,10384,0,0
+1398,4404,Bowling Buddies,10384,1,0
+1399,3317,Analyzing Angles,10384,0,0
+1400,4068,Analyzing Angles,10384,0,0
+1401,4406,Analyzing Angles,10384,1,0
+1402,3318,TV Dimensions,10384,0,0
+1403,4069,TV Dimensions,10384,0,0
+1404,4411,TV Dimensions,10384,1,0
+1405,3319,Voter Turnout,10384,0,0
+1406,4070,Voter Turnout,10384,0,0
+1407,4412,Voter Turnout,10384,1,0
+1408,3320,"Right Triangle, Which Legs?",10384,0,0
+1409,4071,"Right Triangle, Which Legs?",10384,0,0
+1410,4416,"Right Triangle, Which Legs?",10384,1,0
+1411,3321,A Cranberry Craving,10384,0,0
+1412,4072,A Cranberry Craving,10384,0,0
+1413,4417,A Cranberry Craving,10384,1,0
+1414,3322,Money Maker?,10384,0,0
+1415,4073,Money Maker?,10384,0,0
+1416,4419,Money Maker?,10384,1,0
+1417,3323,Assessing Seismic Risk,10384,0,0
+1418,4074,Assessing Seismic Risk,10384,0,0
+1419,4421,Assessing Seismic Risk,10384,1,0
+1420,3324,Johnny's Orchards,10384,0,0
+1421,4075,Johnny's Orchards,10384,0,0
+1422,4422,Johnny's Orchards,10384,1,0
+1423,3325,Twisting Carpet Tiles,10384,0,0
+1424,4076,Twisting Carpet Tiles,10384,0,0
+1425,4423,Twisting Carpet Tiles,10384,1,0
+1426,3326,Triangle in Motion?,10384,0,0
+1427,4077,Triangle in Motion?,10384,0,0
+1428,4427,Triangle in Motion?,10384,1,0
+1429,3327,Choosing Cs,10384,0,0
+1430,4078,Choosing Cs,10384,0,0
+1431,4428,Choosing Cs,10384,1,0
+1432,3328,Four Point Puzzle,10384,0,0
+1433,4079,Four Point Puzzle,10384,0,0
+1434,4433,Four Point Puzzle,10384,1,0
+1435,3329,Bella's Bagel Bakery,10384,0,0
+1436,4080,Bella's Bagel Bakery,10384,0,0
+1437,4436,Bella's Bagel Bakery,10384,1,0
+1438,3330,Forming Triangles from a Folding Ruler,10384,0,0
+1439,4081,Forming Triangles from a Folding Ruler,10384,0,0
+1440,4438,Forming Triangles from a Folding Ruler,10384,1,0
+1441,3331,How Many Angles?,10384,0,0
+1442,4082,How Many Angles?,10384,0,0
+1443,4442,How Many Angles?,10384,1,0
+1444,3332,Are You Ready for Some Football?,10384,0,0
+1445,4083,Are You Ready for Some Football?,10384,0,0
+1446,4443,Are You Ready for Some Football?,10384,1,0
+1447,3333,How Fast Is a Minute?,10384,0,0
+1448,4084,How Fast Is a Minute?,10384,0,0
+1449,4447,How Fast Is a Minute?,10384,1,0
+1450,3334,Cutting Corners,10384,0,0
+1451,4085,Cutting Corners,10384,0,0
+1452,4451,Cutting Corners,10384,1,0
+1453,3335,Pumpkin Carving for Charity,10384,0,0
+1454,4086,Pumpkin Carving for Charity,10384,0,0
+1455,4453,Pumpkin Carving for Charity,10384,1,0
+1456,3336,Paving Stones,10384,0,0
+1457,4087,Paving Stones,10384,0,0
+1458,4462,Paving Stones,10384,1,0
+1459,3337,Practicing for the Winter Olympics,10384,0,0
+1460,4088,Practicing for the Winter Olympics,10384,0,0
+1461,4464,Practicing for the Winter Olympics,10384,1,0
+1462,3338,Dendrochronology,10384,0,0
+1463,4089,Dendrochronology,10384,0,0
+1464,4466,Dendrochronology,10384,1,0
+1465,3339,Flipping Coins,10384,0,0
+1466,4090,Flipping Coins,10384,0,0
+1467,4467,Flipping Coins,10384,1,0
+1468,3340,Exploding Shapes,10384,0,0
+1469,4091,Exploding Shapes,10384,0,0
+1470,4469,Exploding Shapes,10384,1,0
+1471,3341,Cadence,10384,0,0
+1472,4092,Cadence,10384,0,0
+1473,4470,Cadence,10384,1,0
+1474,3342,Totolospi,10384,0,0
+1475,4093,Totolospi,10384,0,0
+1476,4476,Totolospi,10384,1,0
+1477,3343,Calendar Calculations,10384,0,0
+1478,4094,Calendar Calculations,10384,0,0
+1479,4486,Calendar Calculations,10384,1,0
+1480,3344,Measuring a Mountain Bike,10384,0,0
+1481,4095,Measuring a Mountain Bike,10384,0,0
+1482,4488,Measuring a Mountain Bike,10384,1,0
+1483,3345,Splash!,10384,0,0
+1484,4096,Splash!,10384,0,0
+1485,4489,Splash!,10384,1,0
+1486,3346,Examining an Equation,10384,0,0
+1487,4097,Examining an Equation,10384,0,0
+1488,4491,Examining an Equation,10384,1,0
+1489,3347,Dinner at Pepe's,10384,0,0
+1490,4098,Dinner at Pepe's,10384,0,0
+1491,4494,Dinner at Pepe's,10384,1,0
+1492,3348,Tied in Knots,10384,0,0
+1493,4099,Tied in Knots,10384,0,0
+1494,4497,Tied in Knots,10384,1,0
+1495,3349,What's the Difference?,10384,0,0
+1496,4100,What's the Difference?,10384,0,0
+1497,4499,What's the Difference?,10384,1,0
+1498,3350,Stina's Hike,10384,0,0
+1499,4101,Stina's Hike,10384,0,0
+1500,4503,Stina's Hike,10384,1,0
+1501,3351,From Here to There,10384,0,0
+1502,4102,From Here to There,10384,0,0
+1503,4504,From Here to There,10384,1,0
+1504,3352,Coloring a Hexagon,10384,0,0
+1505,4103,Coloring a Hexagon,10384,0,0
+1506,4508,Coloring a Hexagon,10384,1,0
+1507,3353,How Deep Is It?,10384,0,0
+1508,4104,How Deep Is It?,10384,0,0
+1509,4511,How Deep Is It?,10384,1,0
+1510,3354,Birthday Line Up,10384,0,0
+1511,4105,Birthday Line Up,10384,0,0
+1512,4513,Birthday Line Up,10384,1,0
+1513,3355,Anjelica's Very Odd Magic Sweater,10384,0,0
+1514,4106,Anjelica's Very Odd Magic Sweater,10384,0,0
+1515,4515,Anjelica's Very Odd Magic Sweater,10384,1,0
+1516,3356,Radical Darts,10384,0,0
+1517,4107,Radical Darts,10384,0,0
+1518,4525,Radical Darts,10384,1,0
+1519,3357,Similar Perimeter,10384,0,0
+1520,4108,Similar Perimeter,10384,0,0
+1521,4526,Similar Perimeter,10384,1,0
+1522,3358,Baffling Brother,10384,0,0
+1523,4109,Baffling Brother,10384,0,0
+1524,4533,Baffling Brother,10384,1,0
+1525,3359,Baking Blackberries,10384,0,0
+1526,4110,Baking Blackberries,10384,0,0
+1527,4536,Baking Blackberries,10384,1,0
+1528,3360,All Around the World,10384,0,0
+1529,4111,All Around the World,10384,0,0
+1530,4537,All Around the World,10384,1,0
+1531,3361,Boxing Up Harry's Broom,10384,0,0
+1532,4112,Boxing Up Harry's Broom,10384,0,0
+1533,4540,Boxing Up Harry's Broom,10384,1,0
+1534,3362,Eight Sticks and Zero Triangles,10384,0,0
+1535,4113,Eight Sticks and Zero Triangles,10384,0,0
+1536,4543,Eight Sticks and Zero Triangles,10384,1,0
+1537,3363,Teeter-Toddlers,10384,0,0
+1538,4114,Teeter-Toddlers,10384,0,0
+1539,4544,Teeter-Toddlers,10384,1,0
+1540,3364,Tribonacci Tribulation,10384,0,0
+1541,4115,Tribonacci Tribulation,10384,0,0
+1542,4546,Tribonacci Tribulation,10384,1,0
+1543,3365,The World's Largest Popcorn Ball,10384,0,0
+1544,4116,The World's Largest Popcorn Ball,10384,0,0
+1545,4548,The World's Largest Popcorn Ball,10384,1,0
+1546,3366,Lotsa Popcorn!,10384,0,0
+1547,4117,Lotsa Popcorn!,10384,0,0
+1548,4549,Lotsa Popcorn!,10384,1,0
+1549,3367,Flying Off the Shelves,10384,0,0
+1550,4118,Flying Off the Shelves,10384,0,0
+1551,4550,Flying Off the Shelves,10384,1,0
+1552,3368,Card Covers,10384,0,0
+1553,4119,Card Covers,10384,0,0
+1554,4552,Card Covers,10384,1,0
+1555,3369,Let It Snow!,10384,0,0
+1556,4120,Let It Snow!,10384,0,0
+1557,4555,Let It Snow!,10384,1,0
+1558,3370,Wondering about Water,10384,0,0
+1559,4121,Wondering about Water,10384,0,0
+1560,4557,Wondering about Water,10384,1,0
+1561,3371,A Dicey Situation,10384,0,0
+1562,4122,A Dicey Situation,10384,0,0
+1563,4562,A Dicey Situation,10384,1,0
+1564,3372,Teeter Troop,10384,0,0
+1565,4123,Teeter Troop,10384,0,0
+1566,4565,Teeter Troop,10384,1,0
+1567,3373,Photo Wall,10384,0,0
+1568,4124,Photo Wall,10384,0,0
+1569,4571,Photo Wall,10384,1,0
+1570,3374,Train Travel,10384,0,0
+1571,4125,Train Travel,10384,0,0
+1572,4573,Train Travel,10384,1,0
+1573,3375,Filling Glasses,10384,0,0
+1574,4126,Filling Glasses,10384,0,0
+1575,4579,Filling Glasses,10384,1,0
+1576,3376,Eating Contest,10384,0,0
+1577,4127,Eating Contest,10384,0,0
+1578,4580,Eating Contest,10384,1,0
+1579,3377,Caliyah's Cart,10384,0,0
+1580,4128,Caliyah's Cart,10384,0,0
+1581,4582,Caliyah's Cart,10384,1,0
+1582,3378,Sierpinski Stages,10384,0,0
+1583,4129,Sierpinski Stages,10384,0,0
+1584,4583,Sierpinski Stages,10384,1,0
+1585,3379,The Shortest Possible Side,10384,0,0
+1586,4130,The Shortest Possible Side,10384,0,0
+1587,4585,The Shortest Possible Side,10384,1,0
+1588,3380,To B or Not To B,10384,0,0
+1589,4131,To B or Not To B,10384,0,0
+1590,4586,To B or Not To B,10384,1,0
+1591,3381,Triple Tango,10384,0,0
+1592,4132,Triple Tango,10384,0,0
+1593,4591,Triple Tango,10384,1,0
+1594,3382,A Championship Season,10384,0,0
+1595,4133,A Championship Season,10384,0,0
+1596,4592,A Championship Season,10384,1,0
+1597,3383,How Many Ties?,10384,0,0
+1598,4134,How Many Ties?,10384,0,0
+1599,4595,How Many Ties?,10384,1,0
+1600,3384,Circle Derby,10384,0,0
+1601,4135,Circle Derby,10384,0,0
+1602,4598,Circle Derby,10384,1,0
+1603,3385,Two By Canoe,10384,0,0
+1604,4136,Two By Canoe,10384,0,0
+1605,4599,Two By Canoe,10384,1,0
+1606,3386,Making the Biggest Triangle,10384,0,0
+1607,4137,Making the Biggest Triangle,10384,0,0
+1608,4602,Making the Biggest Triangle,10384,1,0
+1609,3387,Symbol Logic,10384,0,0
+1610,4138,Symbol Logic,10384,0,0
+1611,4605,Symbol Logic,10384,1,0
+1612,3388,The Coordinated Quadrilateral,10384,0,0
+1613,4139,The Coordinated Quadrilateral,10384,0,0
+1614,4609,The Coordinated Quadrilateral,10384,1,0
+1615,3389,Lincoln's Top Hat,10384,0,0
+1616,4140,Lincoln's Top Hat,10384,0,0
+1617,4611,Lincoln's Top Hat,10384,1,0
+1618,3390,Snail's Trail,10384,0,0
+1619,4141,Snail's Trail,10384,0,0
+1620,4612,Snail's Trail,10384,1,0
+1621,3391,Swapping Marbles,10384,0,0
+1622,4142,Swapping Marbles,10384,0,0
+1623,4613,Swapping Marbles,10384,1,0
+1624,3392,Fraction Debate,10384,0,0
+1625,4143,Fraction Debate,10384,0,0
+1626,4616,Fraction Debate,10384,1,0
+1627,3393,Dollar Dealing,10384,0,0
+1628,4144,Dollar Dealing,10384,0,0
+1629,4620,Dollar Dealing,10384,1,0
+1630,3394,The Bouncing Ball,10384,0,0
+1631,4145,The Bouncing Ball,10384,0,0
+1632,4621,The Bouncing Ball,10384,1,0
+1633,3395,Field Trip,10384,0,0
+1634,4146,Field Trip,10384,0,0
+1635,4624,Field Trip,10384,1,0
+1636,3396,Eduardo's Equation Challenge,10384,0,0
+1637,4147,Eduardo's Equation Challenge,10384,0,0
+1638,4633,Eduardo's Equation Challenge,10384,1,0
+1639,3397,Take Me Out to the Ballgame,10384,0,0
+1640,4148,Take Me Out to the Ballgame,10384,0,0
+1641,4636,Take Me Out to the Ballgame,10384,1,0
+1642,3398,Apple Orchard,10384,0,0
+1643,4149,Apple Orchard,10384,0,0
+1644,4637,Apple Orchard,10384,1,0
+1645,3399,"Well, Well, Well",10384,0,0
+1646,4150,"Well, Well, Well",10384,0,0
+1647,4639,"Well, Well, Well",10384,1,0
+1648,3400,Trisecting a Square,10384,0,0
+1649,4151,Trisecting a Square,10384,0,0
+1650,4640,Trisecting a Square,10384,1,0
+1651,3401,Shortcut Savings,10384,0,0
+1652,4152,Shortcut Savings,10384,0,0
+1653,4641,Shortcut Savings,10384,1,0
+1654,3402,Ration Ratios,10384,0,0
+1655,4153,Ration Ratios,10384,0,0
+1656,4642,Ration Ratios,10384,1,0
+1657,3403,Two Toss,10384,0,0
+1658,4154,Two Toss,10384,0,0
+1659,4645,Two Toss,10384,1,0
+1660,3404,Eight Squares on a Table,10384,0,0
+1661,4155,Eight Squares on a Table,10384,0,0
+1662,4649,Eight Squares on a Table,10384,1,0
+1663,3405,Account Balances,10384,0,0
+1664,4156,Account Balances,10384,0,0
+1665,4650,Account Balances,10384,1,0
+1666,3406,Fraction Action!,10384,0,0
+1667,4157,Fraction Action!,10384,0,0
+1668,4651,Fraction Action!,10384,1,0
+1669,3407,A Picturesque Pythgorean Proof,10384,0,0
+1670,4158,A Picturesque Pythgorean Proof,10384,0,0
+1671,4654,A Picturesque Pythgorean Proof,10384,1,0
+1672,3463,Clone of A Picturesque Pythgorean Proof,10384,1,0
