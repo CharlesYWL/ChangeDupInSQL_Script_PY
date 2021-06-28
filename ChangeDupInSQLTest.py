@@ -35,7 +35,7 @@ class MyTestCase(unittest.TestCase):
         df2 = pd.DataFrame(data={
             'id': [0, 1, 2], 'bank_request': [0, 0, 0]
         })
-        rs2 = [0, 0, 0]
+        rs2 = [0, 0, 1]
         print("---------- Testing getNeedModifyRow: All False ----------")
         self.assertEqual(getNeedModifyRow([0, 1, 2], df2, 'id', 'bank_request'), rs2, "test_getNeedModifyRow: All False")
         print("---------- Testing getNeedModifyRow: All False : OK ----------")
