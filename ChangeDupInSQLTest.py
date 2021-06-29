@@ -1,7 +1,7 @@
 import unittest
 from ChangeDupInSQL import getNeedModifyRow,getRowByID,mysqlConnect
 from config import config
-import mysql
+import mysql.connector
 from mysql.connector import errorcode
 import pandas as pd
 

@@ -63,6 +63,10 @@ def mysqlConnect(config):
     return mysql.connector.connect(**config)
 
 if __name__ == '__main__':
+    # identity_col is the col we used for identify duplication
+    # target_col is the col we gonna make change
+    identity_col = 0
+    target_col = 37
     try:
         cnx = mysqlConnect(config)
         # cnx = mysql.connector.connect(user='mobile', password='M0bil3',host='beacondev.coverq.com',database='thinkmobile')
@@ -103,14 +107,15 @@ if __name__ == '__main__':
             '''
             we have groups of dup [id1,id2,id3], we only keep "bank_request=1" 1 of them
             '''
-            bank_requests_need_to_change = getNeedModifyRow(ids, query_df, 0, 37);
+            bank_requests_need_to_change = getNeedModifyRow(ids, query_df, identity_col, target_col);
             for (idx , id) in enumerate(ids):
                 select_row = getRowByID(query_df, id)
-                csv_df = csv_df.append({'id': id, 'title':select_row[1], 'create_by':select_row[30], 'bank_request': select_row[37], 'bank_request_changed':bank_requests_need_to_change[idx] }, ignore_index=True)
+                csv_df = csv_df.append({'id': id, 'title':select_row[1], 'create_by':select_row[30], 'bank_request': select_row[target_col], 'bank_request_changed':bank_requests_need_to_change[idx] }, ignore_index=True)
 
             # Modify DB here
             for id in [x for i, x in enumerate(ids) if bank_requests_need_to_change[i]]:
-                modifyDB(cnx,cursor, id, [1, 0][getRowByID(query_df, id)[37]])
+                # Chance 0 -> 1 and 1-> 0
+                modifyDB(cnx,cursor, id, [1, 0][getRowByID(query_df, id)[target_col]])
 
         csv_df.to_csv('DupProblems.csv', sep=',', encoding='utf-8')
 
