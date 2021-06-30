@@ -33,6 +33,11 @@ $ venv/Scripts/activate
 ```console
 $(env) pip install -r requirements.txt
 ```
+If error occur, modify requirements version so they matches.  
+Also for mysqlclient, you have to go to download specific package and install that.
+[link](https://www.lfd.uci.edu/~gohlke/pythonlibs/#mysqlclient)
+
+
 3. Test connection
 make sure you can connect your SQL with SQL command line
 ``` console
