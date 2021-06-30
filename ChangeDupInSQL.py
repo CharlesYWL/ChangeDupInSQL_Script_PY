@@ -85,8 +85,9 @@ if __name__ == '__main__':
         print("connection success");
         logging.debug("connection success")
         # query here
-        query = "SELECT * FROM t_problem AS A WHERE (title IN (SELECT title FROM t_problem AS B WHERE A.id<>B.id)) AND " \
-                "create_by = 10384 "
+        query = "SELECT * FROM t_problem AS A WHERE (title IN (SELECT title FROM t_problem AS " \
+                "B WHERE A.id<>B.id)) AND create_by = 10384 AND (A.id IN (SELECT problem_id FROM " \
+                "t_problem_problemset AS C WHERE C.type_id != 106 )) "
         cursor.execute(query)
         query_df = pandas.DataFrame(cursor) # save to dataframe
         # print(query_df)
