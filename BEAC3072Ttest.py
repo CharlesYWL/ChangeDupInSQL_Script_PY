@@ -1,5 +1,5 @@
 import unittest
-from ChangeDupInSQL import getNeedModifyRow,getRowByID,mysqlConnect
+from BEAC3072 import getNeedModifyRow,getRowByID,mysqlConnect
 from config import config
 import mysql.connector
 from mysql.connector import errorcode

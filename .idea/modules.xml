@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ChangeDupInSQL.iml" filepath="$PROJECT_DIR$/.idea/ChangeDupInSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CuethinkPyScript.iml" filepath="$PROJECT_DIR$/.idea/CuethinkPyScript.iml" />
     </modules>
   </component>
 </project>

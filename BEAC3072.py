@@ -10,7 +10,7 @@ import logging
 # Logging setting
 root_logger= logging.getLogger()
 root_logger.setLevel(logging.DEBUG) # or whatever
-handler = logging.FileHandler('test.log', 'w', 'utf-8') # or whatever
+handler = logging.FileHandler('BEAC3072.log', 'w', 'utf-8') # or whatever
 handler.setFormatter(logging.Formatter('%(asctime)s; %(levelname)s %(message)s',"%Y-%m-%d %H:%M:%S")) # or whatever
 root_logger.addHandler(handler)
 
@@ -74,7 +74,7 @@ if __name__ == '__main__':
     except mysql.connector.Error as err:
         if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
             print("Something is wrong with your user name or password")
-            logging.error("Something is wrong with your user name or password")
+            logging.error("Something is wrong with your user name -or password")
         elif err.errno == errorcode.ER_BAD_DB_ERROR:
             print("Database does not exist")
             logging.error("Database does not exist")
@@ -86,7 +86,7 @@ if __name__ == '__main__':
         logging.debug("connection success")
         # query here
         query = "SELECT * FROM t_problem AS A WHERE (title IN (SELECT title FROM t_problem AS " \
-                "B WHERE A.id<>B.id)) AND create_by = 10384 AND (A.id IN (SELECT problem_id FROM " \
+                "B WHERE A.id<>B.id)) AND create_by = 11328 AND (A.id IN (SELECT problem_id FROM " \
                 "t_problem_problemset AS C WHERE C.type_id != 106 )) "
         cursor.execute(query)
         query_df = pandas.DataFrame(cursor) # save to dataframe
